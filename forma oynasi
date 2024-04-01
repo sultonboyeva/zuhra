@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <table width="960px" align="center" border="1">
+       <tr>
+        <td>
+            <form>
+                <p>Ismingiz:</p>
+                <input type="text" name="ism" placeholder="ismingizni kiriting:">
+                <br>
+                <p>Familiyangiz:</p>
+                <input type="text" name="fam" placeholder="familiyangizni kiriting:">
+                <p>email</p>
+                <input type="email" name="pochta" placeholder="examp1@gmail.com">
+                <p>Parol</p>
+                <input type="password" name="parol" placeholder="parol">
+                <p>Tug'ulgan sana:</p>
+                <input type="date" name="tv">
+                <br>
+                <input type="submit" name="s1"
+                value="OK">
+            </form>
+        </td>
+       </tr>
+
+   </table> 
+</body>
+</html>
